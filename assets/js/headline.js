@@ -1,8 +1,8 @@
 //you can change the text, but you need to keep same format [yourtext, color];
 let yourtext = [
     ["Developer", "#18d26e"],
-    ["Designer", "#18d26e"],
-    ["Account Manager", "#18d26e"]
+    ["Freelancer", "#18d26e"],
+    ["Coder", "#18d26e"]
   ];
   
   let x = 0;
