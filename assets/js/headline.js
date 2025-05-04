@@ -2,7 +2,8 @@
 let yourtext = [
     ["Developer", "#18d26e"],
     ["Freelancer", "#18d26e"],
-    ["Coder", "#18d26e"]
+    ["Coder", "#18d26e"],
+    ["Electronic Engineer", "#18d26e"]
   ];
   
   let x = 0;
